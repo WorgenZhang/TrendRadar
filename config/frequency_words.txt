@@ -1,3 +1,10 @@
+ai
+人工智能
+大模型
+多模态
+世界模型
+!gai
+
 谷歌
 google
 gemini
@@ -21,10 +28,6 @@ NVIDIA
 黄仁勋
 
 AMD
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
